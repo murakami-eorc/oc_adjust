@@ -1,0 +1,43 @@
+https://aeronet.gsfc.nasa.gov/
+AERONET-Ocean Color (OC) Data Display
+-> ARIAKE_TOWER
+https://aeronet.gsfc.nasa.gov/cgi-bin/data_display_seaprism_v3?site=ARIAKE_TOWER&nachal=2&level=2&place_code=10
+->
+Download All: Lwn Level 1.5
+https://aeronet.gsfc.nasa.gov/cgi-bin/print_warning_seaprism_v3?site=ARIAKE_TOWER&year=118&month=1&day=1&year2=123&month2=3&day2=19&LWN15=1&AVG=10
+or
+Download All: Lwn Level 2.0
+https://aeronet.gsfc.nasa.gov/cgi-bin/print_warning_seaprism_v3?site=ARIAKE_TOWER&year=118&month=1&day=1&year2=123&month2=3&day2=19&LWN20=1&AVG=10
+
+
+The public domain data you are about to download are contributed by the International AERONET Federation. Each site has a Principal Investigator(s) (PI) , responsible for deployment, maintenance and data collection. The PI has priority use of the data collected at the site. The PI is entitled to be informed of any other use of that site data.
+
+The Principal Investigator(s) of 'ARIAKE_TOWER' is(are): Joji_Ishizaka and Kohei_Arai. If you intend to use the following data please consult with him/her/them via e-mail(s) :
+Jishizaka@nagoya-u.jp
+arai@cc.saga-u.ac.jp
+
+e.g.,
+ARIAKE_TOWER_L20_2018010120181231.csv
+ARIAKE_TOWER_L20_2019010120191231.csv
+ARIAKE_TOWER_L20_2020010120201231.csv
+ARIAKE_TOWER_L20_2021010120211231.csv
+ARIAKE_TOWER_L20_2022010120221231.csv
+ARIAKE_TOWER_L20_2023010120231231.csv
+
+
+or 
+-> ARIAKE_TOWER-2
+https://aeronet.gsfc.nasa.gov/cgi-bin/data_display_seaprism_v3?site=ARIAKE_TOWER_2&nachal=2&level=2&place_code=10
+->
+Download All: Lwn Level 1.5
+https://aeronet.gsfc.nasa.gov/cgi-bin/print_warning_seaprism_v3?site=ARIAKE_TOWER_2&year=123&month=1&day=1&year2=125&month2=7&day2=17&LWN15=1&AVG=10
+
+The latest principal investigator(s) and co-investigator(s) of the 'ARIAKE_TOWER_2' site:
+Joji_Ishizaka
+Hiroto_Higa
+Hiroshi_Murakami
+
+If you intend to use the following data please contact principal investigator(s) and co-investigator(s) via e-mail:
+Jishizaka@nagoya-u.jp
+higa-h@ynu.ac.jp
+murakami.hiroshi.eo@jaxa.jp
