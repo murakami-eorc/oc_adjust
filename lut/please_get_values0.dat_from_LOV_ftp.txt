@@ -1,0 +1,1 @@
+Please get values0.dat and rgoth_Ebuchi.txt from LOV FTP site introduced by Morel et al., 2002.
